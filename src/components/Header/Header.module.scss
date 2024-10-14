@@ -1,0 +1,20 @@
+.header {
+	&-container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		height: 100%;
+		min-height: 80px;
+	}
+
+	&-navigation {
+		&-list {
+			list-style-type: none;
+		}
+	}
+
+	&-button {
+		display: flex;
+		gap: 8px;
+	}
+}

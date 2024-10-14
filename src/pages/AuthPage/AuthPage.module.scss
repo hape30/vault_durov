@@ -1,0 +1,16 @@
+.auth {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+
+	&-content {
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+	}
+
+	&-title {
+		margin-bottom: 16px;
+	}
+}

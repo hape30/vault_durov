@@ -1,0 +1,41 @@
+.content {
+	display: flex;
+	min-height: calc(100vh - 160px);
+}
+
+.files {
+	position: relative;
+	max-width: 40vw;
+	min-width: 300px;
+
+	&-list {
+		list-style-type: none !important;
+
+		&-item {
+			display: flex;
+			align-items: center;
+			gap: 4px;
+			padding: 4px 3px;
+			border-radius: 0.5em;
+			cursor: pointer;
+
+			&:hover {
+				background-color: rgba(204, 204, 204, 0.6);
+			}
+		}
+	}
+}
+
+.editor {
+	width: 100%;
+}
+
+.width-control {
+	position: absolute;
+	width: 1px;
+	height: 100%;
+	right: 0;
+	top: 0;
+	background-color: #e2e8f0;
+	cursor: ew-resize;
+}
