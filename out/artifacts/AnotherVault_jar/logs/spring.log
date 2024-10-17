@@ -1,0 +1,288 @@
+2024-10-17T18:42:31.739+03:00  INFO 12832 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 12832 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:42:31.742+03:00  INFO 12832 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:42:32.347+03:00  WARN 12832 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:42:32.386+03:00 ERROR 12832 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T18:48:45.723+03:00  INFO 10584 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 10584 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:48:45.726+03:00  INFO 10584 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:48:46.347+03:00  WARN 10584 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:48:46.370+03:00 ERROR 10584 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T18:48:51.716+03:00  INFO 10036 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 10036 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:48:51.718+03:00  INFO 10036 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:48:52.245+03:00  WARN 10036 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:48:52.266+03:00 ERROR 10036 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T18:50:32.527+03:00  INFO 5080 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 5080 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:50:32.533+03:00  INFO 5080 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:50:33.477+03:00  WARN 5080 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:50:33.513+03:00 ERROR 5080 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T18:52:01.519+03:00  INFO 4752 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 4752 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:52:01.522+03:00  INFO 4752 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:52:02.060+03:00  WARN 4752 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:52:02.089+03:00 ERROR 4752 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T18:52:11.972+03:00  INFO 10988 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 10988 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:52:11.974+03:00  INFO 10988 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:52:12.477+03:00  WARN 10988 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:52:12.500+03:00 ERROR 10988 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T18:54:17.771+03:00  INFO 5156 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 5156 (C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Users\dmitr\OneDrive\Рабочий стол\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T18:54:17.774+03:00  INFO 5156 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T18:54:18.362+03:00  WARN 5156 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T18:54:18.382+03:00 ERROR 5156 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:15:01.742+03:00  INFO 13460 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 13460 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:15:01.744+03:00  INFO 13460 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:15:02.136+03:00  WARN 13460 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:15:02.152+03:00 ERROR 13460 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:18:51.204+03:00  INFO 1436 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 1436 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:18:51.204+03:00  INFO 1436 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:18:51.701+03:00  WARN 1436 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:18:51.726+03:00 ERROR 1436 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:19:58.804+03:00  INFO 7344 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 7344 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:19:58.807+03:00  INFO 7344 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:19:59.218+03:00  WARN 7344 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:19:59.236+03:00 ERROR 7344 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:20:51.303+03:00  INFO 10616 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 10616 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:20:51.314+03:00  INFO 10616 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:20:51.742+03:00  WARN 10616 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:20:51.758+03:00 ERROR 10616 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:22:33.462+03:00  INFO 1988 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 1988 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:22:33.462+03:00  INFO 1988 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:22:33.847+03:00  WARN 1988 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:22:33.859+03:00 ERROR 1988 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:23:01.047+03:00  INFO 8460 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 8460 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:23:01.047+03:00  INFO 8460 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:23:01.455+03:00  WARN 8460 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:23:01.466+03:00 ERROR 8460 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:25:28.141+03:00  INFO 10728 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 10728 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:25:28.144+03:00  INFO 10728 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:25:28.562+03:00  WARN 10728 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:25:28.583+03:00 ERROR 10728 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:27:21.208+03:00  INFO 11716 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 11716 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:27:21.211+03:00  INFO 11716 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:27:21.757+03:00  WARN 11716 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:27:21.791+03:00 ERROR 11716 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-10-17T23:30:43.239+03:00  INFO 12656 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : Starting AnotherVaultApplication using Java 21.0.1 with PID 12656 (C:\Vault\out\artifacts\AnotherVault_jar\AnotherVault.jar started by dmitr in C:\Vault\out\artifacts\AnotherVault_jar)
+2024-10-17T23:30:43.241+03:00  INFO 12656 --- [AnotherVault] [main] c.V.A.AnotherVaultApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T23:30:43.622+03:00  WARN 12656 --- [AnotherVault] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-10-17T23:30:43.643+03:00 ERROR 12656 --- [AnotherVault] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
