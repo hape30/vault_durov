@@ -1,0 +1,17 @@
+com\VTB\AnotherVault\Entities\User.class
+com\VTB\AnotherVault\Services\UserService.class
+com\VTB\AnotherVault\Configurations\WebConfig.class
+com\VTB\AnotherVault\Entities\AuthRequest.class
+com\VTB\AnotherVault\Configurations\SecurityConfig.class
+com\VTB\AnotherVault\Controllers\UserController.class
+com\VTB\AnotherVault\Componets\JwtAuthenticationFilter.class
+com\VTB\AnotherVault\Entities\Enums\Role.class
+com\VTB\AnotherVault\Services\UserDetailsServiceImpl.class
+com\VTB\AnotherVault\Repositories\UserRepository.class
+com\VTB\AnotherVault\Componets\JwtTokenProvider.class
+com\VTB\AnotherVault\Entities\Enums\RepositoryRole.class
+com\VTB\AnotherVault\Configurations\CLOConfig.class
+com\VTB\AnotherVault\Controllers\CLOController.class
+com\VTB\AnotherVault\Services\CLOService.class
+com\VTB\AnotherVault\AnotherVaultApplication.class
+com\VTB\AnotherVault\Entities\JwtAuthenticationResponse.class
