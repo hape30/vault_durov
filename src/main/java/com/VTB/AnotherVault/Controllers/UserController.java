@@ -16,13 +16,16 @@ import org.springframework.security.authentication.UsernamePasswordAuthenticatio
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.ui.Model;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.Optional;
 
 @RestController
 @Validated
 @RequiredArgsConstructor
-@RequestMapping("/auth")
+@RequestMapping("/api")
 @Tag(name = "User API", description = "API для управления пользователями")
 public class UserController {
 
@@ -71,5 +74,24 @@ public class UserController {
     @GetMapping("/login")
     public ResponseEntity<String> loginPage() {
         return ResponseEntity.ok("Login page");
+    }
+
+    @Operation(summary = "Страница аккаунта по нику")
+    @GetMapping("/user/{username}")
+    public ResponseEntity<User> getUserPage(@PathVariable String username){
+        User user = userService.getUserByUsername(username);
+        if(user != null){
+            return new ResponseEntity<>(user, HttpStatus.OK);
+        }
+        return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+    }
+    @Operation(summary = "Страница аккаунта по айди")
+    @GetMapping("/user/id/{id}")
+    public ResponseEntity<User> getUserById(@PathVariable Long id) {
+        User user = userService.getUserById(id);
+        if(user != null){
+            return new ResponseEntity<>(user, HttpStatus.OK);
+        }
+        return new ResponseEntity<>(HttpStatus.NOT_FOUND);
     }
 }

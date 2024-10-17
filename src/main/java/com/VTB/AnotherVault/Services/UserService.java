@@ -28,4 +28,14 @@ public class UserService {
         return savedUser;
     }
 
+    public User getUserByUsername(String username) {
+        return userRepository.findByUsername(username);
+    }
+
+    public User getUserById(long id){
+        return userRepository.findById(id);
+    }
+
+
+
 }

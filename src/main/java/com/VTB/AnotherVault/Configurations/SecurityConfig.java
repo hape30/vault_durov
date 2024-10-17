@@ -21,9 +21,10 @@ public class SecurityConfig {
         http
                 .csrf(csrf -> csrf.disable()) // Временно отключить CSRF
                 .authorizeHttpRequests((requests) -> requests
-                        .requestMatchers("/auth/signup", "/auth/login", "/auth/**", "/v3/api-docs/**", "/swagger-ui/**", "/swagger-ui.html", "/api/**", "/api/files/**", "/api/files/upload/", "/**").permitAll()
+                        .requestMatchers("/api/signup", "/api/login", "/api/**", "/v3/api-docs/**", "/swagger-ui/**", "/swagger-ui.html", "/api/**","/api/user/**", "/api/files/**", "/api/files/upload/", "/**").permitAll()
                            .anyRequest().authenticated()
-                ).formLogin(form -> form.disable())
+                )
+                .formLogin(form -> form.disable())
                 .logout((logout) -> logout.permitAll());
 
         return http.build();
