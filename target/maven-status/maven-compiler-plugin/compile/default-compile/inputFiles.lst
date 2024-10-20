@@ -6,8 +6,8 @@ C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Confi
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Configurations\WebConfig.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Controllers\CLOController.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Controllers\UserController.java
-C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\decryption.java
-C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\encryption.java
+C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\DecryptFileClient.java
+C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\EncryptFileClient.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Entities\AuthRequest.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Entities\Enums\RepositoryRole.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Entities\Enums\Role.java
@@ -15,5 +15,7 @@ C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Entit
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Entities\User.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Repositories\UserRepository.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Services\CLOService.java
+C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Services\DecryptFileService.java
+C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Services\EncryptFileService.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Services\UserDetailsServiceImpl.java
 C:\Users\dmitr\IdeaProjects\vault_durov\src\main\java\com\VTB\AnotherVault\Services\UserService.java

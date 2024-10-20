@@ -5,6 +5,7 @@ com\VTB\AnotherVault\Entities\AuthRequest.class
 com\VTB\AnotherVault\Configurations\SecurityConfig.class
 com\VTB\AnotherVault\Controllers\UserController.class
 com\VTB\AnotherVault\Componets\JwtAuthenticationFilter.class
+com\VTB\AnotherVault\Services\EncryptFileService.class
 com\VTB\AnotherVault\Entities\Enums\Role.class
 com\VTB\AnotherVault\Services\UserDetailsServiceImpl.class
 com\VTB\AnotherVault\Repositories\UserRepository.class
