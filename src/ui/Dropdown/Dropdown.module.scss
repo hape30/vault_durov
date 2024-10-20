@@ -1,0 +1,24 @@
+@import url(../../style/variables.scss);
+
+.dropdown {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	padding: 5px 15px;
+	width: 200px;
+	height: 40px;
+	border: 1px solid var(--primary-color-blue);
+	overflow: hidden;
+	cursor: pointer;
+
+	&__item {
+		white-space: nowrap;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		width: 170px;
+	}
+
+	&_active {
+		height: max-content;
+	}
+}

@@ -4,9 +4,9 @@ import { ButtonPropsT } from '../Buttons'
 
 import { constants } from '../../../constants/constants'
 
-const DefaultButton: FC<ButtonPropsT> = ({ text }) => {
+const DefaultButton: FC<ButtonPropsT> = ({ text, type }) => {
 	return (
-		<Button bgColor={constants.primaryColorBlue} color='white' className='btn'>
+		<Button type={type} bgColor={constants.primaryColorBlue} color='white' className='btn'>
 			{text}
 		</Button>
 	)
